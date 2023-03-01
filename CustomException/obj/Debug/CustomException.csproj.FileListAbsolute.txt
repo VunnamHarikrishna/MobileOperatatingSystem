@@ -1,0 +1,12 @@
+D:\C#\Practice\MobileOperatatingSystem\CustomException\bin\Debug\CustomException.dll
+D:\C#\Practice\MobileOperatatingSystem\CustomException\bin\Debug\CustomException.pdb
+D:\C#\Practice\MobileOperatatingSystem\CustomException\obj\Debug\CustomException.csprojAssemblyReference.cache
+D:\C#\Practice\MobileOperatatingSystem\CustomException\obj\Debug\CustomException.csproj.CoreCompileInputs.cache
+D:\C#\Practice\MobileOperatatingSystem\CustomException\obj\Debug\CustomException.dll
+D:\C#\Practice\MobileOperatatingSystem\CustomException\obj\Debug\CustomException.pdb
+D:\Hari\C#\Practice\Practice\Assignments\MobileOperatatingSystem\CustomException\bin\Debug\CustomException.dll
+D:\Hari\C#\Practice\Practice\Assignments\MobileOperatatingSystem\CustomException\bin\Debug\CustomException.pdb
+D:\Hari\C#\Practice\Practice\Assignments\MobileOperatatingSystem\CustomException\obj\Debug\CustomException.csproj.AssemblyReference.cache
+D:\Hari\C#\Practice\Practice\Assignments\MobileOperatatingSystem\CustomException\obj\Debug\CustomException.csproj.CoreCompileInputs.cache
+D:\Hari\C#\Practice\Practice\Assignments\MobileOperatatingSystem\CustomException\obj\Debug\CustomException.dll
+D:\Hari\C#\Practice\Practice\Assignments\MobileOperatatingSystem\CustomException\obj\Debug\CustomException.pdb

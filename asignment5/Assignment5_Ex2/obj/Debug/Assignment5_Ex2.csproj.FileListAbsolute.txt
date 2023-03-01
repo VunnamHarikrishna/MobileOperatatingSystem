@@ -1,0 +1,7 @@
+D:\C#\Practice\Assignment\Assignment5_Ex2\obj\Debug\Assignment5_Ex2.csproj.CoreCompileInputs.cache
+D:\C#\Practice\Assignment\Assignment5_Ex2\bin\Debug\Assignment5_Ex2.exe.config
+D:\C#\Practice\Assignment\Assignment5_Ex2\bin\Debug\Assignment5_Ex2.exe
+D:\C#\Practice\Assignment\Assignment5_Ex2\bin\Debug\Assignment5_Ex2.pdb
+D:\C#\Practice\Assignment\Assignment5_Ex2\obj\Debug\Assignment5_Ex2.exe
+D:\C#\Practice\Assignment\Assignment5_Ex2\obj\Debug\Assignment5_Ex2.pdb
+D:\C#\Practice\Assignment\Assignment5_Ex2\obj\Debug\Assignment5_Ex2.csprojAssemblyReference.cache

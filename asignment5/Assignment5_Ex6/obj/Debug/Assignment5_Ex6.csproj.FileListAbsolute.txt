@@ -1,0 +1,6 @@
+D:\C#\Practice\Assignment\Assignment5_Ex6\bin\Debug\Assignment5_Ex6.exe.config
+D:\C#\Practice\Assignment\Assignment5_Ex6\bin\Debug\Assignment5_Ex6.exe
+D:\C#\Practice\Assignment\Assignment5_Ex6\bin\Debug\Assignment5_Ex6.pdb
+D:\C#\Practice\Assignment\Assignment5_Ex6\obj\Debug\Assignment5_Ex6.csproj.CoreCompileInputs.cache
+D:\C#\Practice\Assignment\Assignment5_Ex6\obj\Debug\Assignment5_Ex6.exe
+D:\C#\Practice\Assignment\Assignment5_Ex6\obj\Debug\Assignment5_Ex6.pdb
